@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Brenon Monterio | The League</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/league.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Brenon Monterio</h1>
+</header>
+
+<div class="container">
+  <section class="panel">
+
+    <!-- PROFILE HEADER -->
+    <div class="profile-image">
+      <img src="images/brenon-superman.jpeg" alt="Brenon Superman">
+    </div>
+
+    <div class="profile-meta">
+      <h2>Details</h2>
+      <p><strong>Code of Honour:</strong> Superman</p>
+      <p><strong>Status:</strong> Active</p>
+      <p><strong>Duration:</strong> 2022 – Present</p>
+    </div>
+
+    <!-- DESCRIPTION -->
+    <h2>Description</h2>
+    <p>
+      Drawn to simple joys, he finds balance in games, travel, and unwinding with movies and shows—
+      moments that recharge his spirit and keep life grounded.
+    </p>
+    <p>
+      With a genuine fascination for technology, he remains curious and engaged with the tools shaping the modern world,
+      always eager to learn and understand what lies beneath the surface.
+    </p>
+    <p>
+      Professionally, he serves as an Office Assistant at Fr. Agnel Ashram, Bandra—
+      steady, dependable, and consistently willing to help wherever support is needed.
+      His strength lies not in spe
